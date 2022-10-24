@@ -48,6 +48,8 @@ and don't forget to read our
 [Contribuitor's Guide](https://kworkflow.org/content/howtocontribute.html)
 (or [howtocontribute file](documentation/content/howtocontribute.rst)).
 
+To start to contribute see the issue with 'good first issue'
+
 # Reach Out
 
 The best way to get help or make suggestions is by creating
